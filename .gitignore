@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.pt
+*.log
+*.png
+
+# 本地数据不上传
+data/
+DoubanConversationCorpus/
